@@ -4,10 +4,8 @@ permalink: /hu.html
 # hu.md &#x1F1ED;&#x1F1FA;
 
 ## Links
-- 
-- 
-- 
-- .
+- [Go to Top](/#)
+- [Twitch](/twitch)
 
 ## Lorem Isprum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel urna et neque pharetra lacinia. Sed aliquet lectus nec velit lacinia malesuada.
