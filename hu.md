@@ -7,7 +7,7 @@ permalink: /hu.html
 - [Go to Top](/#)
 - [Twitch](/twitch)
 - [Twitter](/twitter)
-- [Instagram]/instagram)
+- [Instagram](/instagram)
 - [Facebook](/facebook)
 - [YouTube](/youtube)
 - [Reddit](/reddit)
